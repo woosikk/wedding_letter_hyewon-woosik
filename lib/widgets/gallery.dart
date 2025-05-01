@@ -7,7 +7,6 @@ import 'package:mochung/widgets/imagePage.dart';
 
 class Gallery extends StatefulWidget {
   final List<ImageProvider> imagePaths = [
-    //AssetImage('assets/images/white_0.JPG'),
     AssetImage('assets/images/1.jpeg'),
     AssetImage('assets/images/2.jpeg'),
     AssetImage('assets/images/3.jpeg'),
@@ -29,6 +28,18 @@ class Gallery extends StatefulWidget {
     AssetImage('assets/images/19.jpeg'),
     AssetImage('assets/images/20.jpeg'),
     AssetImage('assets/images/21.jpeg'),
+    AssetImage('assets/images/22.jpeg'),
+    AssetImage('assets/images/23.jpeg'),
+    AssetImage('assets/images/24.jpeg'),
+    AssetImage('assets/images/25.jpeg'),
+    AssetImage('assets/images/26.jpeg'),
+    AssetImage('assets/images/27.jpeg'),
+    AssetImage('assets/images/28.jpeg'),
+    AssetImage('assets/images/29.jpeg'),
+    AssetImage('assets/images/30.jpeg'),
+    AssetImage('assets/images/31.jpeg'),
+    AssetImage('assets/images/32.jpeg'),
+    AssetImage('assets/images/33.jpeg'),
   ];
   
   @override
